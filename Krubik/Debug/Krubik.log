@@ -1,0 +1,48 @@
+﻿Сборка начата 15.01.2015 14:29:51.
+     1>Проект "C:\Users\Александра\Desktop\Krubik\Krubik\Krubik.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Users\Александра\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Krubik.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BigCube.cpp Krubik.cpp
+         Krubik.cpp
+     1>c:\users\александра\desktop\krubik\krubik\bigcube.h(42): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\krubik.cpp(265): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\krubik.cpp(271): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\krubik.cpp(272): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\krubik.cpp(277): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\krubik.cpp(278): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\krubik.cpp(284): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\krubik.cpp(290): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\krubik.cpp(295): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\krubik.cpp(296): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\krubik.cpp(359): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\александра\desktop\krubik\krubik\krubik.cpp(460): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\krubik.cpp(525): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\александра\desktop\krubik\krubik\krubik.cpp(524): warning C4101: k: неиспользованная локальная переменная
+     1>c:\users\александра\desktop\krubik\krubik\krubik.cpp(544): warning C4244: =: преобразование "time_t" в "long", возможна потеря данных
+         BigCube.cpp
+     1>c:\users\александра\desktop\krubik\krubik\bigcube.h(42): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\bigcube.cpp(98): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\bigcube.cpp(108): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\bigcube.cpp(118): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\bigcube.cpp(153): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\bigcube.cpp(154): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\bigcube.cpp(156): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\bigcube.cpp(157): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\bigcube.cpp(159): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\bigcube.cpp(160): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\bigcube.cpp(168): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\bigcube.cpp(169): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\bigcube.cpp(170): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+     1>c:\users\александра\desktop\krubik\krubik\bigcube.cpp(171): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+         Создание кода...
+       Link:
+         D:\Users\Александра\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Александра\Desktop\Krubik\Debug\Krubik.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Александра\Desktop\Krubik\Debug\Krubik.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Александра\Desktop\Krubik\Debug\Krubik.lib" /MACHINE:X86 Debug\Krubik.res
+         Debug\BigCube.obj
+         Debug\Krubik.obj
+         Debug\Small.obj
+         Debug\stdafx.obj
+         Krubik.vcxproj -> C:\Users\Александра\Desktop\Krubik\Debug\Krubik.exe
+     1>Сборка проекта "C:\Users\Александра\Desktop\Krubik\Krubik\Krubik.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.05

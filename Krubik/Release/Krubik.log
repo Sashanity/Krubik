@@ -1,0 +1,18 @@
+﻿Сборка начата 22.12.2014 20:53:47.
+     1>Проект "C:\Users\Александра\Desktop\Krubik\Krubik\Krubik.vcxproj" в узле 2 (целевые объекты Build).
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Release\Krubik.res" Krubik.rc 
+       Link:
+         D:\Users\Александра\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Александра\Desktop\Krubik\Release\Krubik.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Александра\Desktop\Krubik\Release\Krubik.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Александра\Desktop\Krubik\Release\Krubik.lib" /MACHINE:X86 /SAFESEH Release\Krubik.res
+         Release\BigCube.obj
+         Release\Krubik.obj
+         Release\Small.obj
+         Release\stdafx.obj
+         Создание кода
+         Создание кода завершено
+         Krubik.vcxproj -> C:\Users\Александра\Desktop\Krubik\Release\Krubik.exe
+     1>Сборка проекта "C:\Users\Александра\Desktop\Krubik\Krubik\Krubik.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:03.32
